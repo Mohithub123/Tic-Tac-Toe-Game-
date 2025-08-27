@@ -1,4 +1,5 @@
 # Tic-Tac-Toe-Game-
 
-![Screenshot](Uploading_Screenshot_2025-08-27_121303.png)
+![Screenshot](Screenshot%202025-08-27%20121303.png)
+
 
