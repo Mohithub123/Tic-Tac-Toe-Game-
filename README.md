@@ -1,4 +1,4 @@
 # Tic-Tac-Toe-Game-
 
-![Alt Text](image-path/image-file.png)
+![Screenshot](Uploading_Screenshot_2025-08-27_121303.png)
 
